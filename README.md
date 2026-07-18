@@ -16,6 +16,6 @@ The eyes are 3d printed blanks that I painted both by hand and with airbrush. I 
 
 ![alt text](https://github.com/skullbelow/Watch-Flowers/blob/main/WatchFlower%20Media%20Files/CornflowerLR.gif)
 ![alt text](https://github.com/skullbelow/Watch-Flowers/blob/main/WatchFlower%20Media%20Files/OrangeBlink.gif)
-![alt text](https://github.com/skullbelow/Watch-Flowers/blob/main/WatchFlower%20Media%20Files/Blink.gif)
-![alt text](https://github.com/skullbelow/Watch-Flowers/blob/main/WatchFlower%20Media%20Files/LR.gif)
+![alt text](https://github.com/skullbelow/Watch-Flowers/blob/main/WatchFlower%20Media%20Files/OrangeBanner.JPG)
+![alt text[]()](https://github.com/skullbelow/Watch-Flowers/blob/main/WatchFlower%20Media%20Files/blueeyecropped.jpg)
 
